@@ -1,0 +1,46 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 14.5,
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "editor.rulers": [108, 120],
+    "code-runner.clearPreviousOutput": true,
+    "editor.fontLigatures": true,
+    "code-runner.executorMap": {
+        "python": "clear && python -u"
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "python.defaultInterpreterPath": "python",
+    "json.schemas": [],
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.codeActionsOnSave": {
+    
+
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.indentSize": "tabSize",
+    "terminal.integrated.fontFamily": "Ubuntu Mono for Powerline",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "[django-html]": {
+    },
+    "files.associations": {
+        "*.html": "django-html"
+    }
+    
+
+    
+}
